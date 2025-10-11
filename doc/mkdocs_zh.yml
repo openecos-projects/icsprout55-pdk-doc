@@ -1,0 +1,53 @@
+INHERIT: tpl/cfg/mkdocs_base.yml
+
+docs_dir: src/zh
+site_dir: site
+
+site_name: 浙江创芯55nm开源PDK
+
+edit_uri: edit/main/doc/src/zh
+
+repo_url: https://github.com/ecoslab/icsprout55-pdk
+repo_name: ecoslab/icsprout55-pdk
+
+copyright: |
+  <div>Copyright &copy; 2025 ICSprout Integrated Circuit Co., Ltd. All under
+    <a
+      href="https://creativecommons.org/licenses/by-nc-sa/4.0"
+      target="_blank" rel="noopener">CC BY-NC-SA 4.0
+    </a>
+  </div>
+
+theme:
+  palette:
+  - scheme: default
+    primary: red
+    accent: red
+    toggle:
+      icon: material/brightness-7
+      name: 切换到深色模式
+  - scheme: slate
+    primary: red
+    accent: red
+    toggle:
+      icon: material/brightness-4
+      name: 切换到浅色模式
+  language: zh
+
+extra:
+  social:
+    - icon: fontawesome/solid/earth
+      link: http://www.icsprout.com
+      name: Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/ecoslab
+      name: GitHub
+
+nav:
+  - 项目主页: index.md
+  - 快速上手:
+    - 安装使用: page/getting-started/installation.md
+    - 工具配置: page/getting-started/configuration.md
+    - 演示案例: page/getting-started/example.md
+    - 常见问题: page/getting-started/faq.md
+  - 内容组成: page/content/index.md

@@ -1,0 +1,47 @@
+INHERIT: tpl/cfg/mkdocs_base.yml
+
+docs_dir: src/en
+site_dir: site/en
+
+site_name: ICSprout 55nm Open Source PDK
+
+edit_uri: edit/main/doc/src/en
+
+repo_url: https://github.com/ecoslab/icsprout55-pdk-doc
+repo_name: ecoslab/icsprout55-pdk-doc
+
+copyright: |
+  <div>Copyright &copy; 2025 ICSprout Integrated Circuit Co., Ltd. All under
+    <a
+      href="https://creativecommons.org/licenses/by-nc-sa/4.0"
+      target="_blank" rel="noopener">CC BY-NC-SA 4.0
+    </a>
+  </div>
+
+theme:
+  palette:
+  - scheme: default
+    primary: red
+    accent: red
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    primary: red
+    accent: red
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  language: en
+
+extra:
+  social:
+    - icon: fontawesome/solid/earth
+      link: http://www.icsprout.com
+      name: Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/ecoslab
+      name: GitHub
+
+nav:
+  - Project Home: index.md
