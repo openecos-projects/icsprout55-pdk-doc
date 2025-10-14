@@ -3,7 +3,7 @@ INHERIT: tpl/cfg/mkdocs_base.yml
 docs_dir: src/en
 site_dir: site/en
 
-site_name: ICSprout 55nm Open Source PDK
+site_name: ICsprout 55nm Open Source PDK
 
 edit_uri: edit/main/doc/src/en
 
@@ -11,7 +11,7 @@ repo_url: https://github.com/ecoslab/icsprout55-pdk-doc
 repo_name: ecoslab/icsprout55-pdk-doc
 
 copyright: |
-  <div>Copyright &copy; 2025 ICSprout Integrated Circuit Co., Ltd. All under
+  <div>Copyright &copy; 2025 ICsprout Integrated Circuit Co., Ltd. All under
     <a
       href="https://creativecommons.org/licenses/by-nc-sa/4.0"
       target="_blank" rel="noopener">CC BY-NC-SA 4.0

@@ -36,7 +36,7 @@
 本PDK采用Apache-2.0开源许可证，其特点主要为**允许用户二次修改代码并将其作为闭源或开源产品使用（即商业友好性），但要求在分发软件时必须保留原有代码中的版权、专利、商标和归属声明等内容，并在被修改文件的头部注释部分注明修改情况。**本PDK的发布、使用及分发均受[Apache-2.0开源许可证](https://github.com/ecoslab/icsprout55-pdk/blob/main/LICENSE)条款约束。为严格遵循该许可证要求，确保法律约束力覆盖至每个组成文件，本PDK在每个源文件的头部均声明有Apache-2.0许可证信息，以保障项目在法律层面的完整性与一致性。**​​此项措施旨在为所有使用者提供明确的许可指引，确保用户在遵循许可证条款的前提下，能够自由地使用、修改和分发相关设计文件。​**
 
 ```
-Copyright 2025 ICSprout
+Copyright 2025 ICsprout Integrated Circuit Co., Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

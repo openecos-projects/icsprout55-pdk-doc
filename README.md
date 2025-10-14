@@ -1,4 +1,4 @@
-# ICSprout55 PDK documentation
+# ICsprout55 PDK documentation
 
 Run the following commands to visit documentation at localhost:
 
