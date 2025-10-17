@@ -7,8 +7,8 @@ site_name: 浙江创芯55nm开源PDK
 
 edit_uri: edit/main/doc/src/zh
 
-repo_url: https://github.com/ecoslab/icsprout55-pdk
-repo_name: ecoslab/icsprout55-pdk
+repo_url: https://github.com/openecos-projects/icsprout55-pdk
+repo_name: openecos-projects/icsprout55-pdk
 
 copyright: |
   <div>Copyright &copy; 2025 ICsprout Integrated Circuit Co., Ltd. and</div>
@@ -42,7 +42,7 @@ extra:
       link: http://www.icsprout.com
       name: Website
     - icon: fontawesome/brands/github
-      link: https://github.com/ecoslab
+      link: https://github.com/openecos-projects
       name: GitHub
 
 nav:
