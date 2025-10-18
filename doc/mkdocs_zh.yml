@@ -11,8 +11,8 @@ repo_url: https://github.com/openecos-projects/icsprout55-pdk
 repo_name: openecos-projects/icsprout55-pdk
 
 copyright: |
-  <div>Copyright &copy; 2025 ICsprout Integrated Circuit Co., Ltd. and</div>
-  <div style="text-indent: 14ch;">&nbsp;Institute of Computing Technology, Chinese Academy of Sciences </div>
+  <div>Copyright &copy; 2025 ICsprout Integrated Circuit Co., Ltd.</div>
+  <div>Copyright &copy; 2025 Institute of Computing Technology, Chinese Academy of Sciences</div>
   <div>All under
     <a
       href="https://creativecommons.org/licenses/by-nc-sa/4.0"
