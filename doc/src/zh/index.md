@@ -62,9 +62,4 @@ limitations under the License.
 | 待定 | 中国科学院计算技术研究所 | 待定 | 文档维护、工具适配、PDK问题修复 |
 | 缪宇飏 | 中国科学院计算技术研究所 | [miaoyuyang@ict.ac.cn](mailto:miaoyuyang@ict.ac.cn) | 项目管理、文档维护 |
 
-## 资源
-- [SkyWater 130nm Open Source PDK](https://github.com/google/skywater-pdk)
-- [GlobalFoundries 180nm Open Source PDK](https://github.com/google/gf180mcu-pdk)
-- [IHP 130nm Open Source PDK](https://github.com/IHP-GmbH/IHP-Open-PDK)
-
 > 作者：缪宇飏（myyerrol）
