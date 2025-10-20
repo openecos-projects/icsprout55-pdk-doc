@@ -58,8 +58,6 @@ limitations under the License.
 ## 联系
 | 姓名 | 单位 | 联系方式 | 负责内容 |
 | - | - | - | - |
-| 待定 | 浙江创芯集成电路有限公司 | 待定 | 文档维护、PDK问题修复 |
-| 待定 | 中国科学院计算技术研究所 | 待定 | 文档维护、工具适配、PDK问题修复 |
 | 缪宇飏 | 中国科学院计算技术研究所 | [miaoyuyang@ict.ac.cn](mailto:miaoyuyang@ict.ac.cn) | 项目管理、文档维护 |
 
 > 作者：缪宇飏（myyerrol）
