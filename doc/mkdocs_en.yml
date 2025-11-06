@@ -4,6 +4,7 @@ docs_dir: src/en
 site_dir: site/en
 
 site_name: ICsprout 55nm Open Source PDK
+site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 edit_uri: edit/main/doc/src/en
 
