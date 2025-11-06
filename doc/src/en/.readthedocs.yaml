@@ -10,4 +10,4 @@ build:
   jobs:
     build:
       html:
-        - cd doc && MKDOCS_ENV=deploy make setup && make build-rtd MKDOCS_ENV
+        - cd doc && MKDOCS_ENV=deploy make setup && make build-rtd MKDOCS_ENV=en
