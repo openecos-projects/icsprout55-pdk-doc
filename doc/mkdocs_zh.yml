@@ -4,6 +4,7 @@ docs_dir: src/zh
 site_dir: site
 
 site_name: 浙江创芯55nm开源PDK
+site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 edit_uri: edit/main/doc/src/zh
 
