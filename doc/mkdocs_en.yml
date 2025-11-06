@@ -37,6 +37,7 @@ theme:
   language: en
 
 extra:
+  alternate:
   social:
     - icon: fontawesome/solid/earth
       link: http://www.icsprout.com
