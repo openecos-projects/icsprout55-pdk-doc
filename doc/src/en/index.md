@@ -58,6 +58,6 @@ limitations under the License.
 ## Contact Us
 | Name | Company | E-mail | Roles |
 | - | - | - | - |
-| Yuyang Miao | Institute of Computing Technology, Chinese Academy of Sciences | [miaoyuyang@ict.ac.cn](mailto:miaoyuyang@ict.ac.cn) | Project management, Document maintenance |
+| ECOS Team | Institute of Computing Technology, Chinese Academy of Sciences | [ecos-all@ict.ac.cn](mailto:ecos-all@ict.ac.cn) | Project management, Document maintenance |
 
 > Authors：Yuyang Miao (myyerrol)

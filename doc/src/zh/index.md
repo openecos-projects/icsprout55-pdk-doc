@@ -58,6 +58,6 @@ limitations under the License.
 ## 联系
 | 姓名 | 单位 | 联系方式 | 负责内容 |
 | - | - | - | - |
-| 缪宇飏 | 中国科学院计算技术研究所 | [miaoyuyang@ict.ac.cn](mailto:miaoyuyang@ict.ac.cn) | 项目管理、文档维护 |
+| ECOS团队 | 中国科学院计算技术研究所 | [ecos-all@ict.ac.cn](mailto:ecos-all@ict.ac.cn) | 项目管理、文档维护 |
 
 > 作者：缪宇飏（myyerrol）
