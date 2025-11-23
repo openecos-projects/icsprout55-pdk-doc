@@ -47,4 +47,6 @@ extra:
       name: GitHub
 
 nav:
-  - Project Home: index.md
+  - Home: index.md
+  - Contents: page/content/index.md
+  - Notice: page/notice/index.md
