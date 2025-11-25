@@ -48,9 +48,5 @@ extra:
 
 nav:
   - 项目主页: index.md
-  - 快速上手:
-    - 安装使用: page/getting-started/installation.md
-    - 工具配置: page/getting-started/configuration.md
-    - 演示案例: page/getting-started/example.md
-    - 常见问题: page/getting-started/faq.md
   - 内容组成: page/content/index.md
+  - 官方声明: page/notice/index.md
