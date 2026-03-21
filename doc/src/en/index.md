@@ -59,5 +59,3 @@ limitations under the License.
 | Name | Company | E-mail | Roles |
 | - | - | - | - |
 | ECOS Team | Institute of Computing Technology, Chinese Academy of Sciences | [ecos-all@ict.ac.cn](mailto:ecos-all@ict.ac.cn) | Project management, Document maintenance |
-
-> Authors：Yuyang Miao (myyerrol)
