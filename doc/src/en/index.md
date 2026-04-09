@@ -4,8 +4,8 @@ The **ICsprout 55nm Open Source PDK** (hereinafter referred to as this PDK) is a
 
 The open-source release of this PDK revolutionizes the traditional challenges of **high barriers and high costs** in chip design. By providing universities, research institutions, and the open-source community with a complete path from chip design to tapeout, it empowers researchers and developers to transform their wildest ideas into physical silicon. Furthermore, thanks to the advanced nature of the 55nm process node within the open-source chip field, the complexity and flexibility of future open-source chip designs will be significantly enhanced, providing a powerful boost to the development of an open-source chip ecosystem and the cultivation of chip talent.
 
-<p style="text-align: center;">
-    <img alt="" src="./res/img/pdk/icsprout.png" style="width: 75%;">
+<p class="ecos-img">
+    <img alt="" src="./res/img/pdk/icsprout.webp" style="width: 75%;">
 </p>
 
 ## Background
