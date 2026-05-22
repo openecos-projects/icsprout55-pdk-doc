@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the source files for the ICsprout55 pdk documentation, generated with **MkDocs Material + Tailwindcss** as a bilingual site (`doc/src/zh` and `doc/src/en`) with a lightweight frontend asset pipeline for consistent local preview and production output.
+This repository contains the source files for the ICsprout55 PDK documentation, generated with **MkDocs Material + Tailwindcss** as a bilingual site (`doc/src/zh` and `doc/src/en`) with a lightweight frontend asset pipeline for consistent local preview and production output.
 
 ## Usage
 
