@@ -4,20 +4,14 @@
 
 本PDK的开源彻底改变了传统芯片设计**高门槛、高成本**的困境，它以开放共享的方式为高校、科研机构和开源社区提供了从芯片设计到流片制造的完整通路，使得研究者与开发者能够有机会将各种天马行空的设计想法转化为实际的物理硅片。此外，得益于55nm工艺节点在开源芯片领域内的先进性，未来开源芯片设计的复杂度和灵活性将显著提高，这为推动开源芯片生态建设和芯片人才培养提供了强大助力。
 
-<table align="center" width="100%">
-    <tr>
-        <td align="center" valign="middle" width="50%">
-            <a href="http://www.icsprout.com" target="_blank">
-                <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp" height="120">
-            </a>
-        </td>
-        <td align="center" valign="middle" width="50%">
-            <a href="https://ic.zju.edu.cn" target="_blank">
-                <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp" height="120">
-            </a>
-        </td>
-    </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; width: 100%; flex-wrap: nowrap;">
+    <a href="http://www.icsprout.com" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 calc((100% - 12px) / 2); min-width: 0;">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp" style="max-width: 90%; max-height: 160px; object-fit: contain;">
+    </a>
+    <a href="https://ic.zju.edu.cn" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 calc((100% - 12px) / 2); min-width: 0;">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp" style="max-width: 110%; max-height: 160px; object-fit: contain;">
+    </a>
+</div>
 
 ## 背景
 浙江创芯研发本PDK主要源于对现有半导体设计生态中闭源模式局限性的突破。传统闭源PDK受限于商业授权模式，存在**无法获得PDK（由于某些特殊原因）**以及流片成本高等问题，这在很大程度上限制了高校、科研机构和开源社区在芯片领域内的创新活力。尽管全世界范围内已经有若干个经过流片验证的开源PDK项目，但浙江创芯仍选择独立研发一套开源PDK，其核心原因在于：**1、本PDK可为本土用户提供覆盖芯片物理设计、流片制造的完整产业链能力，避免受制于海外开源流片政策影响；**2、基于本土产线的开源PDK能够显著降低流片成本，并加快芯片从代码到原型产品的转换效率。
