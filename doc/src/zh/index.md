@@ -5,11 +5,11 @@
 本PDK的开源彻底改变了传统芯片设计**高门槛、高成本**的困境，它以开放共享的方式为高校、科研机构和开源社区提供了从芯片设计到流片制造的完整通路，使得研究者与开发者能够有机会将各种天马行空的设计想法转化为实际的物理硅片。此外，得益于55nm工艺节点在开源芯片领域内的先进性，未来开源芯片设计的复杂度和灵活性将显著提高，这为推动开源芯片生态建设和芯片人才培养提供了强大助力。
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 12px; width: 100%; flex-wrap: nowrap;">
-    <a href="http://www.icsprout.com" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 calc((100% - 12px) / 2); min-width: 0;">
-        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp" style="max-width: 90%; max-height: 160px; object-fit: contain;">
+    <a href="http://www.icsprout.com" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 45%; min-width: 0;">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp" style="max-width: 100%; max-height: 160px; object-fit: contain;">
     </a>
-    <a href="https://ic.zju.edu.cn" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 calc((100% - 12px) / 2); min-width: 0;">
-        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp" style="max-width: 110%; max-height: 160px; object-fit: contain;">
+    <a href="https://ic.zju.edu.cn" target="_blank" style="display: flex; align-items: center; justify-content: center; flex: 0 0 calc(55% - 12px); min-width: 0;">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp" style="max-width: 100%; max-height: 160px; object-fit: contain;">
     </a>
 </div>
 
