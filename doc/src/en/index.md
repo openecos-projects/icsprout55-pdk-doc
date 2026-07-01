@@ -4,14 +4,14 @@ The **ICsprout 55nm Open Source PDK** (hereinafter referred to as this PDK) is a
 
 The open-source release of this PDK revolutionizes the traditional challenges of **high barriers and high costs** in chip design. By providing universities, research institutions, and the open-source community with a complete path from chip design to tapeout, it empowers researchers and developers to transform their wildest ideas into physical silicon. Furthermore, thanks to the advanced nature of the 55nm process node within the open-source chip field, the complexity and flexibility of future open-source chip designs will be significantly enhanced, providing a powerful boost to the development of an open-source chip ecosystem and the cultivation of chip talent.
 
-<p align="center">
+<div class="ecos-pdk-member">
     <a href="http://www.icsprout.com" target="_blank">
-        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp" width="45%" align="middle">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://ic.zju.edu.cn" target="_blank">
-        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp" width="50%" align="middle">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/icsprout.webp">
     </a>
-</p>
+    <a href="https://ic.zju.edu.cn" target="_blank">
+        <img alt="" src="https://raw.githubusercontent.com/openecos-projects/website-res/main/img/pdk/zjuic.webp">
+    </a>
+</div>
 
 ## Background
 ICsprout's development of this PDK stems primarily from its desire to overcome the limitations of the closed-source model in the existing semiconductor design ecosystem. Traditional closed-source PDKs are constrained by commercial licensing models, resulting in issues such as **the inability to obtain the PDK (due to certain special reasons)** and high tapeout costs. This significantly restricts the innovative vitality of universities, research institutions, and open-source communities in the chip field. Although several open-source PDK projects worldwide have already undergone tapeout verification, ICsprout chose to independently develop its own open-source PDK. The core reasons are: **1. This PDK can provide local users with a complete industry chain capability covering chip physical design and tapeout manufacturing, avoiding the influence of overseas open-source tapeout policies.** 2. An open-source PDK based on local production lines can significantly reduce tapeout costs and accelerate the conversion efficiency of chips from code to prototype products.
